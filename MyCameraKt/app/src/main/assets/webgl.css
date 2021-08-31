@@ -1,0 +1,16 @@
+canvas {
+    //glcanvas put on imgcanvas
+    position: absolute;
+    top:0; left:0;
+
+	border: 5px solid blue;/*black;*/
+	background-color: rgba(0,0,0,0);/*black;*/
+}
+.l1 {
+    position: absolute;
+    top:1; left:1;
+}
+
+video {
+	display: none;
+}

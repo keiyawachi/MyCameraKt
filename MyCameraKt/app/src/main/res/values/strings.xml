@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCameraKt</string>
+    <string name="image_view">ImageView</string>
+    <string name="camera_button">camera</string>
+    <string name="main">Main Activity</string>
+    <string name="move">MOVE</string>
+    <string name="sub">Sub Activity</string>
+
+</resources>
